@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11315252723",
+    "project_id": "fir-satr",
+    "storage_bucket": "fir-satr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11315252723:android:7cb24f846fd43e23fd5686",
+        "android_client_info": {
+          "package_name": "com.example.firebase_satr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11315252723-sbnfog6oh3tsg0jrs4tb1oi467hiunkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMDe8Jdum2Ng2VeLarbF5idEfk7jM8TVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11315252723-sbnfog6oh3tsg0jrs4tb1oi467hiunkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
